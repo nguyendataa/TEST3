@@ -347,3 +347,72 @@ padding-top: 10px;
 	height: 84.5%;
 	background: #fff;
 }
+.BOX{
+	clear: left;
+	width: 1000px;
+	height: 199px;
+	margin:  0 auto;
+}
+.BOX .box{
+	width: 320px;
+	height: 150px;
+	float: left;
+}
+.box h3{
+    width: 320px;
+    height: 50px;
+    line-height: 75px;
+    text-indent: 4px;
+    text-transform: uppercase;
+    font-family: arial;
+    margin-top: 0px;
+    font-size: 20px;
+    color: red;
+}
+.box p{
+    width: 310px;
+    height: 41px;
+    float: left;
+    margin-top: -19px;
+    font-size: 13px;
+    margin-left: 4px;
+    font-family: arial;
+}
+.box .tron {
+	margin: 0px;
+	width: 257px;
+	height: 35px;
+	float: left;
+
+}
+.box img{
+    margin-left: 28px;
+    width: 27px;
+    height: 27px;
+    float: left;
+    margin-top: 4px;
+}
+.box .And img{
+    width: 20px;
+    height: 15px;
+    float: left;
+}
+.box .Anh1 img{
+	width: 320px;
+	height: 150px;
+	margin: 0px;
+}
+.bottop{
+	width: 1000px;
+	height: 50px;
+	float: left;
+	background: blue;
+
+}
+.bottop p{
+    float: left;
+    text-indent: 310px;
+    font-family: arial;
+    font-size: 14px;
+    color: #fff;
+}
