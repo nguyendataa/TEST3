@@ -1,0 +1,111 @@
+.khung {
+	margin: 0 auto;
+	width: 1000px;
+	height: auto;
+}
+.khung .khung1{
+	margin: 0;
+	float: left;
+	width: 1000px;
+	height: 100px;
+}
+.khung1 .boxlogo{
+	margin: 0;
+	float: left;
+	width: 250px;
+	height: 100px;
+}
+.boxlogo img{
+	width: 100%;
+	height: 100%;
+}
+.khung1 .boxh1{
+	margin: 0;
+	float: left;
+	width: 750px;
+	height: 50px;
+}
+.boxh1 h1{
+	margin: 0;
+	color: red;
+	font-size: 25px;
+	display: block;
+    padding: 10px 40px;
+}
+.khung1 .boxmenu{
+	margin: 0;
+	float: left;
+	width: 750px;
+	height: 50px;
+}
+.boxmenu ul{	
+	float: left;
+	margin: 0;
+	width: 750px;
+	height: 100px;
+	list-style-type: none;
+
+}
+.boxmenu ul li{
+	padding: 16px 18px 16px 0px;
+	float: left;
+	width: 	auto;
+	color:#3A5FCD;
+	text-transform: uppercase;
+	font-size: 13px;
+}
+.boxmenu ul li:hover{
+	color: red;
+}
+.boxmenu ul li a{	
+	text-decoration: none;
+}
+
+.khung .khung2{
+	margin: 0;
+	float: left;
+	width: 1000px;
+	height: 400px;
+}
+.khung2 img{
+	width: 100%;
+	height: 100%;
+	opacity: 0.6;
+}
+.khung2 a.a1{
+	float: right;
+	margin-top: -200px;
+	background: black;
+	color: white;
+	font-size: 60px;
+	text-decoration: none;
+	text-align: center;
+    width: 60px;
+    height: 60px;
+}
+.khung2 a.a2{
+	float: right;
+	margin-top: -135px;
+	background: black;
+	color: white;
+	font-size: 60px;
+	text-decoration: none;
+	width:60px;
+	height: 60px;
+	text-align: center;
+}
+.khung2 .boxten{
+	margin-top: -67px;
+	width: 1000px;
+	height: 62px;
+	background: black;
+	float: left;
+}
+.boxten h2{
+	margin: 0;
+	float: left;
+	color: white;
+	font-size: 27px;
+	display: block;
+	padding: 15px;
+}
