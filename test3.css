@@ -146,3 +146,106 @@
 	text-align: center;
 }
 /*00 */
+.thuy{
+	width: 1000px;
+	height: ;
+	margin: 0 auto;
+	
+
+}
+.thuy .menu{
+	float: left;
+	margin: 0 auto;
+    width: 100%;
+    height: 50px;
+    background: white;
+}
+
+.thuy .menu a{
+	margin:0 auto;
+	float: left;
+	width: 195px;
+	height: 2px;
+	color: red;
+	padding-top: 8px;
+	padding-left: 5px;
+	display: block;
+
+}
+.thuy .menu a:hover{
+	color: black;
+	
+}
+.thuy .menu ul{
+	float: right;
+	width: 800px;
+	height: 100%;
+	background:white;
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+
+}
+.thuy .menu ul li{
+	float: left;
+	margin: 0 auto;
+	width: 24%;
+	height: 100%;
+	padding-left: 8%;
+	text-align: center;
+
+}
+.thuy .menu ul li a{
+	text-decoration: none;
+	color: blue;
+}
+.thuy .menu ul li a:hover{
+	color: black;
+}
+.thuy .box{
+	float: left;
+	margin: 0 auto;
+	width: 100%;
+	height: 250px;
+	
+}
+.thuy .box .hinh{
+	float: left;
+	margin: 0 auto;
+	width: 24.625%;
+	height: 250px;
+	
+}
+.thuy .box .hinh img{
+	float: left;
+	margin: 0 auto;
+	width: 100%;
+	height: 150px;
+
+}
+.hinh h3{
+float: left;
+margin: 0 auto;
+color: blue;
+display: block;
+text-align: center;
+width: 100%;
+height: 30px;
+padding-top: 10px;
+}
+.hinh ul{
+	float: left;
+	width: 228px;
+	height: 60px;
+	margin: 0 auto;
+	
+	padding-left: 20px;
+
+
+
+}
+.hinh ul li{
+	color: black;
+
+}
+/*00*/
