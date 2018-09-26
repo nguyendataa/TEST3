@@ -1,0 +1,34 @@
+.boxlinhvuc{
+	width: 100%;
+	height: 16%;
+	float: left;
+}
+.boxlinhvuc h1.de{
+	width: 100%;
+	height:30%;
+	text-transform: uppercase;
+	font-family: arial;
+	font-size: 27px;
+	text-align: center;
+	line-height: 100%;
+	color: red;
+	text-decoration: underline;
+}
+.boxlinhvuc img.a{
+	float: left;
+	width: 24%;
+	height:250px;
+
+}
+.boxlinhvuc a.a{
+	float: left;
+	width: 24%;
+	height:30px;
+	background: #033f99;
+	font-family: arial;
+	font-size: 20px;
+	color: white;
+	text-decoration: none;
+	line-height: 30px;
+	text-align: center;
+}
